@@ -1,4 +1,4 @@
-# Hi there, I'm Deep34572862 👋
+# Hi there, I'm Deep Agarwal 👋
 
 ## About Me
 - 🌱 I’m currently learning advanced algorithms and data structures.
