@@ -5,7 +5,7 @@
 - 🔭 I’m working on improving my skills in Python and JavaScript.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about web development and machine learning.
-- 📫 How to reach me: [deep34572862@example.com](mailto:deep34572862@example.com)
+- 📫 How to reach me: [deep34572862@example.com](mailto:agarwaldeep348@gmail.com)
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I love solving puzzles and playing chess in my free time!
 
