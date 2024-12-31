@@ -22,5 +22,6 @@
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/deep34572862/)
 - [Twitter](https://twitter.com/deep34572862)
+- [Instagram](https://www.instagram.com/deep___agarwal/)
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate or just chat!
