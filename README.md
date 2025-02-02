@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Deep Agarwal, a 3rd year B.Tech CSE student. The domain that interests me is AI / ML. I can work in Python. I am passionate about leveraging technology to solve real-world problems and continuously seek opportunities to expand my knowledge and skills. If you're looking for someone with a keen interest in website development or AI/ML and strong programming abilities, feel free to connect with me.
+Hi, I am Deep Agarwal, a 3rd year B.Tech CSE student. The domain that interests me is Development. I can work in Python. I am passionate about leveraging technology to solve real-world problems and continuously seek opportunities to expand my knowledge and skills. If you're looking for someone with a keen interest in website development or AI/ML and strong programming abilities, feel free to connect with me.
 
 
 ## 🌐 Socials:
